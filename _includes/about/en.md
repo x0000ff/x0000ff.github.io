@@ -1,0 +1,1 @@
+Hi, I am Konstantin Portnov (x0000ff), an iOS engineer @ [Wallapop](https://wallapop/com) based in Barcelona, Spain.
