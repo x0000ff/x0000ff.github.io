@@ -1,7 +1,8 @@
 #=========================================================================================
 # Site settings
-title: x0000ff Blog
-SEOTitle: x0000ff Blog
+title: x0000ff's Logstash
+author: Konstantin Portnov
+SEOTitle: x0000ff Logstash
 header-img: img/home-bg.jpg
 description: "Hello, World"
 email: x0000ff@gmail.com
@@ -21,7 +22,7 @@ RSS: false
 github_username:    x0000ff
 twitter_username:   x0000ff
 #facebook_username: EMPTY
-#linkedin_username: EMPTY
+linkedin_username: konstantinportnov
 
 #=========================================================================================
 # Build settings
@@ -76,7 +77,7 @@ netease_comment: false
 #=========================================================================================
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Konstantin Portnov <br> An iOS developer."
+sidebar-about-description: "Konstantin Portnov<br>An iOS developer."
 sidebar-avatar: /img/avatar-x0000ff.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 #=========================================================================================
@@ -97,31 +98,7 @@ page-mathjax: false
 # Friends
 # friends: [
 #     {
-#     #     title: "Su",
-#     #     href: "http://su.gallery/"
-#     # },{
-#         title: "乱序（Midare）",
-#         href: "http://mida.re/"
-#     },{
-#         title: "Sherry Woo",
-#         href: "https://sherrywoo.me/"
-#     },{
-#         title: "Kun Qian",
-#         href: "http://kunq.me"
-#     },{
-#         title: "Ebn Zhang",
-#         href: "http://ebnbin.com/"
-#     },{
-#         title: "SmdCn",
-#         href: "http://blog.smdcn.net"
-#     },{
-#         title: "JiyinYiyong",
-#         href: "http://tiye.me/"
-#     },{
-#         title: "DHong Say",
-#         href: "http://dhong.co"
-#     },{
-#         title: "尹峰以为",
-#         href: "http://ingf.github.io/"
+#         title: "x0000ff",
+#         href: "https://x0000ff.github.io/"
 #     }
 # ]
